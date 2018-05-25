@@ -1,0 +1,19 @@
+{
+	"cloudOwner": "${cloud_owner1}",
+	"cloudRegionId": "${cloud_region_id1}",
+	"cloudType": "azure",
+	"cloudRegionVersion": "1.0",
+	"ownerDefinedType": "owner-defined-type",
+	"cloudZone": "cloud zone",
+	"complexName": "complex name",
+	"cloudExtraInfo": "${subscription_id}",
+	"vimAuthInfos": [{
+		"userName": "${client_id}",
+		"password": "${secret_key}",
+		"authUrl": "http://10.247.134.140:5000/v3",
+		"sslCacert": "ssl-cacert",
+		"sslInsecure": true,
+		"cloudDomain": "default",
+		"defaultTenant": "${tenant_id1}"
+	}]
+}

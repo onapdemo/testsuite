@@ -1,0 +1,12 @@
+{
+  "name": "${feature_group_name}",
+  "description": "vendor feature group",
+  "partNumber": "123abc456",
+  "addedLicenseKeyGroupsIds": [
+    "${key_group_id}"
+  ],
+  "addedEntitlementPoolsIds": [
+    "${entitlement_pool_id}"
+  ],
+  "manufacturerReferenceNumber" : "${manufacturer_reference_number}"
+}

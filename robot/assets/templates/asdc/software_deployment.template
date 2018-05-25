@@ -1,0 +1,11 @@
+{
+  "artifactGroupType": "DEPLOYMENT",
+  "artifactName": "${artifact_name}",
+  "artifactLabel": "${artifact_label}",
+  "artifactType": "OTHER",
+  "description": "Azure Tosca",
+  "payloadData": "${payload_data}",
+  "icon": "icon",
+  "timeout": null,
+  "heatParameters": []
+}
